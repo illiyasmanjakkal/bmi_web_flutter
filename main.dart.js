@@ -34538,13 +34538,13 @@ this.k5()}}
 A.tB.prototype={
 aB(){return new A.J_(A.adN(null),A.adN(null),B.l)}}
 A.J_.prototype={
-L(a,b){var s,r,q,p,o,n,m,l=this,k=null,j=$.NO(),i=A.h3("BMI Calculater",k,k,k,A.dn(k,k,j,k,k,k,k,k,k,k,k,k,k,B.be,k,k,!0,k,k,k,k,k,k,k,k),k,k),h=$.aan(),g=A.cy(k,20,k),f=A.cy(k,k,10),e=A.dn(k,k,j,k,k,k,k,k,k,k,k,42,k,B.be,k,k,!0,k,k,k,k,k,k,k,k)
+L(a,b){var s,r,q,p,o,n,m,l=this,k=null,j=$.NO(),i=A.h3("BMI Calculater",k,k,k,A.dn(k,k,j,k,k,k,k,k,k,k,k,k,k,B.be,k,k,!0,k,k,k,k,k,k,k,k),k,k),h=$.aan(),g=A.cy(k,20,k),f=A.cy(k,k,60),e=A.dn(k,k,j,k,k,k,k,k,k,k,k,42,k,B.be,k,k,!0,k,k,k,k,k,k,k,k)
 e=A.eq(k,A.adP(l.d,A.a8i(k,B.ds,k,k,k,k,k,k,!0,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,A.dn(k,k,A.ao(204,255,255,255),k,k,k,k,k,k,k,k,38,k,B.be,k,k,!0,k,k,k,k,k,k,k,k),"Height",k,k,k,k,!1,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k),B.u3,e),k,k,k,k,k,130)
 s=A.cy(k,k,110)
 r=A.dn(k,k,j,k,k,k,k,k,k,k,k,42,k,B.be,k,k,!0,k,k,k,k,k,k,k,k)
 q=t.p
-r=A.vQ(A.b([f,e,s,A.eq(k,A.adP(l.e,A.a8i(k,B.ds,k,k,k,k,k,k,!0,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,A.dn(k,k,A.ao(204,255,255,255),k,k,k,k,k,k,k,k,38,k,B.be,k,k,!0,k,k,k,k,k,k,k,k),"Weight",k,k,k,k,!1,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k),B.u3,r),k,k,k,k,k,130),A.cy(k,k,60)],q),B.bx,B.fK,B.bI)
-s=A.vQ(A.b([A.cy(k,k,45),A.eq(k,A.h3("in meters",k,k,k,A.dn(k,k,j,k,k,k,k,k,k,k,k,18,k,B.be,k,k,!0,k,k,k,k,k,k,k,k),k,k),k,k,k,k,k,130),A.cy(k,k,130),A.eq(k,A.h3("in kg",k,k,k,A.dn(k,k,j,k,k,k,k,k,k,k,k,18,k,B.be,k,k,!0,k,k,k,k,k,k,k,k),k,k),k,k,k,k,k,130),A.cy(k,k,20)],q),B.bx,B.fK,B.bI)
+r=A.vQ(A.b([f,e,s,A.eq(k,A.adP(l.e,A.a8i(k,B.ds,k,k,k,k,k,k,!0,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,A.dn(k,k,A.ao(204,255,255,255),k,k,k,k,k,k,k,k,38,k,B.be,k,k,!0,k,k,k,k,k,k,k,k),"Weight",k,k,k,k,!1,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k),B.u3,r),k,k,k,k,k,130),A.cy(k,k,50)],q),B.bx,B.fK,B.bI)
+s=A.vQ(A.b([A.cy(k,k,95),A.eq(k,A.h3("in meters",k,k,k,A.dn(k,k,j,k,k,k,k,k,k,k,k,18,k,B.be,k,k,!0,k,k,k,k,k,k,k,k),k,k),k,k,k,k,k,130),A.cy(k,k,130),A.eq(k,A.h3("in kg",k,k,k,A.dn(k,k,j,k,k,k,k,k,k,k,k,18,k,B.be,k,k,!0,k,k,k,k,k,k,k,k),k,k),k,k,k,k,k,130),A.cy(k,k,10)],q),B.bx,B.fK,B.bI)
 e=A.cy(k,30,k)
 f=A.tv(k,A.eq(k,A.h3("Calculate",k,k,k,A.dn(k,k,j,k,k,k,k,k,k,k,k,22,k,B.cb,k,k,!0,k,k,k,k,k,k,k,k),k,k),k,k,k,k,k,k),B.aL,!1,k,k,k,k,k,k,k,k,k,k,k,new A.a2B(l),k,k,k,k,k,k)
 p=A.cy(k,50,k)
